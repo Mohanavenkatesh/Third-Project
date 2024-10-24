@@ -1,0 +1,102 @@
+.carousel-item .carousel-inner-img-one {
+  position: relative;
+  left: 600px;
+  bottom: 200px;
+}
+
+.carousel-item .carousel-inner-img-two {
+  position: relative;
+  left: 800px;
+  bottom: 150px;
+}
+
+.carousel-item .carousel-inner-img-three {
+  position: relative;
+  left: 900px;
+  bottom: 90px;
+}
+
+.carousel-item h5 {
+  width: fit-content;
+  position: relative;
+  top: 200px;
+  left: 180px;
+}
+
+.carousel-item h1 {
+  width: fit-content;
+  position: relative;
+  top: 200px;
+  left: 180px;
+}
+
+.carousel-item p {
+  width: fit-content;
+  position: relative;
+  top: 200px;
+  left: 180px;
+}
+
+.carousel-item .btn-success {
+  width: fit-content;
+  position: relative;
+  top: 200px;
+  left: 180px;
+}
+
+.dropdown-center button {
+  border: none;
+  color: black;
+  background-color: white;
+}
+
+li a:hover{
+  color: green;
+}
+
+.carouselExampleCaptions{
+  height: 500px;
+}
+
+.container-subscribe{
+  padding: 150px;
+}
+
+.container-subscribe input{
+  border-radius: 25px;
+  border: none solid black 1px;
+}
+
+/* gooogle fonts  */
+
+.navigationbar{
+  font-family: "Playfair Display", serif;
+}
+
+.contentarea{
+  font-family: "Playfair Display", serif;
+}
+
+.whychoseus{
+  font-family: "Playfair Display", serif;
+}
+
+.featuredproduct{
+  font-family: "Playfair Display", serif;
+}
+
+.pricingcards{
+  font-family: "Playfair Display", serif;
+}
+
+.smlcards{
+  font-family: "Playfair Display", serif;
+}
+
+.footer{
+  font-family: "Playfair Display", serif;
+}
+
+.PlantsGonaMakePeopleHappy{
+  font-size: 55px;
+}
